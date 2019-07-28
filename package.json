@@ -1,8 +1,8 @@
 {
   "name": "wheel-xlsx",
-  "version": "2.1.0",
+  "version": "2.1.5",
   "description": "一个导入导出的功能型轮子",
-  "main": "./lib/index.min.js",
+  "main": "./index.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

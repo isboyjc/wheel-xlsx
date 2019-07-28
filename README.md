@@ -24,6 +24,7 @@
 
 ```js
 npm install -s wheel-xlsx
+# CDN版本请等待 . . .
 ```
 
 
