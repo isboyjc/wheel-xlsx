@@ -1,0 +1,22 @@
+{
+  "name": "wheel-xlsx",
+  "version": "2.0.0",
+  "description": "一个导入导出的功能型轮子",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["xlsx","wheel","wheel-xlsx"],
+  "repository": {
+		"type": "git",
+		"url": "https://github/isboyjc/wheel-xlsx"
+	},
+  "author": "isboyjc",
+  "license": "ISC",
+  "dependencies": {
+    "xlsx": "^0.14.4"
+  },
+  "devDependencies":{
+    "xlsx": "^0.14.4"
+  }
+}
